@@ -7,6 +7,37 @@ An interactive Manufacturing Executive Dashboard built with **Microsoft Power BI
 **[🚀 View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdjZjYzNjEtZjk4Zi00MjE4LTgzNDktYjUxYjdlODdkYjljIiwidCI6ImJkOGI4MTg0LTNhNjItNDY0NC04ZDFkLWVkZjliYmVkNDgxMCIsImMiOjN9)**
 
 ---
+---
+
+# 📸 Dashboard Preview
+
+Explore the eight interactive dashboard pages.
+
+## 1. Executive Overview
+![Overview](Screenshots/Overview.png)
+
+## 2. Production Analytics
+![Production](Screenshots/Production.png)
+
+## 3. OEE Monitoring
+![OEE](Screenshots/OEE.png)
+
+## 4. Downtime Analysis
+![Downtime](Screenshots/Downtime.png)
+
+## 5. Delivery Performance
+![Delivery](Screenshots/Delivery.png)
+
+## 6. Energy Analytics
+![Energy](Screenshots/Energy.png)
+
+## 7. Manufacturing Cost Analysis
+![Cost](Screenshots/Cost.png)
+
+## 8. Digital ROI
+![Digital ROI](Screenshots/Digital-ROI.png)
+
+---
 
 ## 📊 Project Overview
 
