@@ -114,7 +114,7 @@ Explore the interactive dashboard:
 
 **M. A. Nahid Hasan**
 
-BI & Data Analytics | Manufacturing Analytics | Business Intelligence | Digital Transformation
+Digital Transformation | Artificial Intelligence (AI) | Business Intelligence (BI) | Manufacturing Analytics
 
 GitHub: [@nahid3152](https://github.com/nahid3152)
 
