@@ -4,8 +4,7 @@
 
 An interactive Manufacturing Executive Dashboard built with **Microsoft Power BI**, designed to provide comprehensive visibility into manufacturing operations, production performance, operational efficiency, delivery, energy consumption, and cost analytics.
 
-**[🚀 View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdjZjYzNjEtZjk4Zi00MjE4LTgzNDktYjUxYjdlODdkYjljIiwidCI6ImJkOGI4MTg0LTNhNjItNDY0NC04ZDFkLWVkZjliYmVkNDgxMCIsImMiOjN9)**
-
+**[🚀 Open Manufacturing Executive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdjZjYzNjEtZDk4Zi00MjE4LTgzNDktYjUxYjdlODdkYjljIiwidCI6ImJkOGI4MTg0LTNhNjItNDY0NC04ZDFkLWVkZjliYmVkNDgxMCIsImMiOjN9)**
 ---
 ---
 
