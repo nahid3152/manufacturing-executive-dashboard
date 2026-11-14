@@ -102,7 +102,7 @@ The Overview dashboard includes:
 
 Explore the interactive dashboard:
 
-**[Open Manufacturing Executive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdjZjYzNjEtZjk4Zi00MjE4LTgzNDktYjUxYjdlODdkYjljIiwidCI6ImJkOGI4MTg0LTNhNjItNDY0NC04ZDFkLWVkZjliYmVkNDgxMCIsImMiOjN9)**
+**[Open Manufacturing Executive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdjZjYzNjEtZDk4Zi00MjE4LTgzNDktYjUxYjdlODdkYjljIiwidCI6ImJkOGI4MTg0LTNhNjItNDY0NC04ZDFkLWVkZjliYmVkNDgxMCIsImMiOjN9)**
 
 ## 📂 Project Files
 
